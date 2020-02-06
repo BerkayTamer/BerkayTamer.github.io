@@ -107,7 +107,7 @@ table {
 #top .img{
 }
 #top .img .background-img{
-  background: url('../img/berkay.jpg');
+  background: url('berkay.jpg');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
